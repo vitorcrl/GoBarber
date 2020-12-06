@@ -1,0 +1,23 @@
+{
+  "name": "GoBarber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/vitorcrl/GoBarber.git",
+  "keywords": [],
+  "author": "vitorcrl <vitor.carlos_souza@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorcrl/GoBarber/issues"
+  },
+  "homepage": "https://github.com/vitorcrl/GoBarber#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
+}
